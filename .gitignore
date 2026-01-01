@@ -1,31 +1,6 @@
-﻿# Byte-compiled / optimized / dll files
-__pycache__/
-*.pyc
-*.pyd
-*.pyo
-
-# Distributions
-dist/
-*.egg-info/
-.eggs/
-
-# Environments
+﻿node_modules/
 .env
-.venv
-env/
-venv/
-
-# Editors
-.vscode/
-
-# OS generated files
+*.log
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-
-# Python specific
-venv/
+.vscode/
